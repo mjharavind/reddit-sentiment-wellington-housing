@@ -65,7 +65,7 @@ Follow these steps to set up your environment and run the analysis notebook.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/mjharavind/wellington-housing-analysis.git
+    git clone https://github.com/mjharavind/reddit-sentiment-wellington-housing.git
     cd wellington-housing-analysis
     ```
 
@@ -129,3 +129,4 @@ The analysis can be run in any environment that supports Jupyter Notebooks (e.g.
 Section [6.] of the notebook details the validation of the sentiment analysis model. To ensure perfect reproducibility of my findings, the notebook uses the pre-scored file (`vader_validation_sample_MANUALLY_SCORED.csv`) provided in the `/data` folder.
 
 If you wish to perform your own validation, detailed instructions are provided in the notebook for generating a new random sample, which you can then download, score manually, and re-upload to test against the models.
+
