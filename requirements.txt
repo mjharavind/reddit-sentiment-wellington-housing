@@ -1,0 +1,26 @@
+# Core Data Science Libraries
+pandas
+numpy
+seaborn
+matplotlib
+notebook
+tqdm
+
+# Data Loading & Processing
+zstandard
+gensim==4.3.0
+pyLDAvis
+nltk
+
+# Machine Learning & NLP
+vaderSentiment
+scikit-learn
+torch
+transformers[sentencepiece]
+accelerate
+
+# Plotting & File Handling
+plotly
+kaleido==0.2.1
+gdown
+selenium
